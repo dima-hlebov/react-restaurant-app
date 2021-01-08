@@ -6,5 +6,5 @@ To run project use
 npm start
 ```
 ## Techologies used
-*React + Redux
-*Bootstrap + Reactstrap
+* React + Redux
+* Bootstrap + Reactstrap
