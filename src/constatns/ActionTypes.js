@@ -1,0 +1,5 @@
+export const MENU_LOADED = 'MENU_LOADED';
+export const MENU_REQUESTED = 'MENU_REQUESTED';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const DELETE_FROM_CART = 'DELETE_FROM_CART';
+export const DELETE_ALL_FROM_CART = 'DELETE_ALL_FROM_CART';
