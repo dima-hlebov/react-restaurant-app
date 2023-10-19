@@ -2,6 +2,10 @@
 
 https://myitalianrestaurant.vercel.app/
 
+## Api
+
+[Restaurant Api](https://github.com/dima-hlebov/react-restaurant-api)
+
 ## Description
 
 The Italian Restaurant React App is a web application designed to showcase and manage the online presence of an Italian restaurant. It provides a user-friendly interface for customers to explore the restaurant's menu and place orders.
